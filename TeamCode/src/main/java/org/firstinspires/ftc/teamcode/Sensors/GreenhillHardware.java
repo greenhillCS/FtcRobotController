@@ -1,9 +1,12 @@
 package org.firstinspires.ftc.teamcode.Sensors;
 
 public class GreenhillHardware {
-    protected static final String DISTANCE_SENSOR = "distanceSensor";
-    protected static final String TOUCH_SENSOR = "touchSensor";
-    protected static final String LEFT_SERVO = "LServo";
-    protected static final String RIGHT_SERVO = "RServo";
+    public static final String DISTANCE_SENSOR = "distanceSensor";
+    public static final String TOUCH_SENSOR = "touchSensor";
+    public static final String LEFT_SERVO = "LServo";
+    public static final String RIGHT_SERVO = "RServo";
+    public  static final String WRIST_SERVO = "WServo";
+    public  static final String ELBOW_SERVO = "ElServo";
+
 
 }
